@@ -1,2 +1,0 @@
-# PrintBot
-Polymarket Arb Bot
